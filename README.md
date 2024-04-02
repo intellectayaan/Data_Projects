@@ -1,4 +1,5 @@
-Hi there 👋, I'm Ayaan
+# Hi there 👋, I'm Ayaan
+
 I am a Data Analyst and willing to contribute with all of my data analysis learnings and skills to my dear company for whom I will work.
 
 🔭 I’m a Google Certified Data Analyst
@@ -9,6 +10,8 @@ I am a Data Analyst and willing to contribute with all of my data analysis learn
 
 📫 Reach me intellectayaan4@gmail.com
 
-Connect with me: https://www.linkedin.com/in/sarwarayaanali/
+Connect with me:
+https://www.linkedin.com/in/sarwarayaanali/
 
-Languages and Tools: MS Excel, SQL, Power BI, Tableau, Python
+Languages and Tools:
+MS Excel, SQL, Power BI, Tableau, Python
