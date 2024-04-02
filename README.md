@@ -1,5 +1,3 @@
-# Diwali Sales Analysis using Python
+# Data Analysis Project
 
-This is my project on Diwali Sales Analysis using Python (Jupyter Notebbok)
-
-Please explore my portfolio for details
+Please explore my Notion portfolio for all my projects
